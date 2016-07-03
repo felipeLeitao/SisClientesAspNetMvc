@@ -16,3 +16,7 @@ C:\projects\NetCoders.SisCliente.UI.WEB\NetCoders.SisCliente.UI.WEB\bin\System.W
 C:\projects\NetCoders.SisCliente.UI.WEB\NetCoders.SisCliente.UI.WEB\obj\Debug\NetCoders.SisCliente.UI.WEB.csprojResolveAssemblyReference.cache
 C:\projects\NetCoders.SisCliente.UI.WEB\NetCoders.SisCliente.UI.WEB\obj\Debug\NetCoders.SisCliente.UI.WEB.dll
 C:\projects\NetCoders.SisCliente.UI.WEB\NetCoders.SisCliente.UI.WEB\obj\Debug\NetCoders.SisCliente.UI.WEB.pdb
+C:\projects\NetCoders.SisCliente.UI.WEB\NetCoders.SisCliente.UI.WEB\bin\EntityFramework.dll
+C:\projects\NetCoders.SisCliente.UI.WEB\NetCoders.SisCliente.UI.WEB\bin\EntityFramework.SqlServer.dll
+C:\projects\NetCoders.SisCliente.UI.WEB\NetCoders.SisCliente.UI.WEB\bin\EntityFramework.xml
+C:\projects\NetCoders.SisCliente.UI.WEB\NetCoders.SisCliente.UI.WEB\bin\EntityFramework.SqlServer.xml

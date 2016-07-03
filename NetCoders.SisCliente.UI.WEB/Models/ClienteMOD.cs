@@ -1,13 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Web;
 
 namespace NetCoders.SisCliente.UI.WEB.Models
 {
+    [Table("TB_CLIENTE")]
     public class ClienteMOD
     {
+        [Key]
         public int Codigo { get; set; }
 
         //O Data Anottations Required, Serve pra dizer que a minha propriedade
