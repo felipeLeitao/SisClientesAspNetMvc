@@ -7,5 +7,10 @@ namespace NetCoders.SisCliente.UI.WEB.Models
 {
     public class ClienteMOD
     {
+        public int Codigo { get; set; }
+
+        public string Nome { get; set; }
+
+        public string Email { get; set; }
     }
 }
